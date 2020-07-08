@@ -83,7 +83,7 @@
                     android:textColor="@color/branco"
                     android:textColorHint="@color/branco"
                     android:background="@drawable/btentrar">
-                    
+
                 </Button>
 
             </LinearLayout>
